@@ -1,0 +1,18 @@
+table  {
+    border: 1px solid red;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+td {
+    font-size: 18px;
+    padding: 4px;
+}
+
+.command {
+    font-weight: bold;
+    color: blue;
+}
